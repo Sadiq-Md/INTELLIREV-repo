@@ -15,7 +15,7 @@ import report_generator  # Import the module you created
 # Load Data
 @st.cache_data
 def load_data():
-    return pd.read_csv(r"C:\Users\sadiq\intellirev\data\company_data.csv")
+    return pd.read_csv("data/company_data.csv")
 
 df = load_data()
 df["Profit_Margin"] = (df["Profit"] / df["Revenue"]) * 100
