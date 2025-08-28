@@ -1,0 +1,10 @@
+Company,Year,Revenue,Profit,Lost_Contracts,Loss_Reason,Industry,Region,Deal_Size
+TCS,2020,200000,45000,5,Pricing,Banking,North America,Large
+TCS,2021,210000,48000,4,Competitor,Retail,Europe,Medium
+TCS,2022,190000,40500,3,Delivery Issues,Healthcare,Asia-Pacific,Small
+Infosys,2020,170000,40000,6,Competitor,Telecom,North America,Large
+Infosys,2021,180000,39200,3,Pricing,Banking,Europe,Medium
+Infosys,2022,160000,33000,2,Client Shift,Healthcare,Asia-Pacific,Small
+Wipro,2020,130000,27000,7,Delivery Issues,Retail,North America,Medium
+Wipro,2021,140000,29000,5,Pricing,Telecom,Europe,Small
+Wipro,2022,135000,27000,4,Competitor,Banking,Asia-Pacific,Large
